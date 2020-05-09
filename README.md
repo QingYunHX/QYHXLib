@@ -8,6 +8,9 @@ An OpenSource Minecraft Launcher Library for .Net Developers
 
 ##Sth Important
 - The link to the title is the original author.
+- You must create a new folder named “DosCommand”
+- Please Move “DosCommand.sln” to the newer parent folder
+- Use it only for Visual Studio
 ## Authentication
 - Just Something about user
 ## LitJson
